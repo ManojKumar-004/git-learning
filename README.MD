@@ -1,6 +1,4 @@
 hello
-
-
-
 guru
 
+already update
